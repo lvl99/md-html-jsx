@@ -1,0 +1,5 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`react > should render HTML to JSX 1`] = `"<h1>Heading 1</h1><p>This is a<a href="https://www.google.com/">test</a>.</p><p>Some<em>text</em><strong>formatting</strong><strong><em>here</em></strong>.<del>Ignore this!</del><span>Look at this!</span></p>"`;
+
+exports[`react > should render markdown to JSX 1`] = `""`;

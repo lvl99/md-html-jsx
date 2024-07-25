@@ -1,0 +1,32 @@
+{
+  "name": "md-html-jsx",
+  "description": "Convert Markdown and HTML to JSX with no DOM involved.",
+  "version": "0.1.0",
+  "type": "module",
+  "module": "dist/index",
+  "types": "lib/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest",
+    "test:watch": "vitest --watch"
+  },
+  "dependencies": {
+    "he": "^1.2.0",
+    "html-to-ast": "^0.0.6",
+    "insane": "^2.6.2",
+    "marked": "^13.0.2"
+  },
+  "devDependencies": {
+    "@types/he": "^1.2.3",
+    "@types/insane": "^1.0.0",
+    "@types/react": "^18.3.3",
+    "prettier": "^3.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.4.5",
+    "vitest": "^1.6.0"
+  },
+  "peerDependencies": {
+    "react": ">= 14.0.0"
+  }
+}
