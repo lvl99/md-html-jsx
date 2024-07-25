@@ -4,6 +4,15 @@ Convert Markdown and HTML to JSX without DOM and without `dangerouslySetInnerHTM
 
 ![No DOMs Club](https://i.imgur.com/JoeK02H.png "No DOMs Club")
 
+If you think it's a great idea to transform MD/HTML to JSX, then you must also believe that 🏳️‍⚧️ Trans Rights Are Human Rights too! 🏳️‍⚧️
+
+* [Donate to Advocates For Trans Equality (A4TE)](https://donate.ncteactionfund.org/a/a4te)
+* [Donate to Families United For Trans Rights (FUTR)](https://app.oath.vote/donate?p=futr)
+* [Donate to Transgender Law Center](https://transgenderlawcenter.org/donate/)
+* [Donate to Transactual](https://www.peoplesfundraising.com/donation/support-transactual)
+* [Donate to UK Trans Info](https://uktrans.info/our-work/)
+* [Donate to Trans Europe and Central Asia (TGEU)](https://www.tgeu.org/support-our-work/)
+
 ## What it do exactly?
 
 Sanitises and converts HTML code to an abstract syntax tree (AST), then you can map those AST nodes to JSX components.
